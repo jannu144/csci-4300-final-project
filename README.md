@@ -4,3 +4,4 @@
 -the web application is supposed to perform CRUD
 -however, because of some group issues and misc., the web application isn't where I wanted it to be
 -thank you!
+-type 'npm start' into your command line for web app deployment
